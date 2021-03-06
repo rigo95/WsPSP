@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="Hash"/>
+<aop-project name="RestJuego"/>
+<aop-project name="RestBasico"/>
+</aop-reference-model>
